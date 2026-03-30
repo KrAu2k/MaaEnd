@@ -10,7 +10,10 @@
             150
         ],
         "expected": [
-            "购买商品"
+            "购买商品",
+            "購買商品",
+            "(?i)Purchase",
+            "購入"
         ],
         "next": [
             "CreditShoppingBuyFirstItemOCR_ArsenalTicket",
@@ -39,7 +42,10 @@
             150
         ],
         "expected": [
-            "购买商品"
+            "购买商品",
+            "購買商品",
+            "(?i)Purchase",
+            "購入"
         ],
         "next": [
             "CreditShoppingBuyNormalItemWithDiscountOCR_ArsenalTicket",
@@ -68,7 +74,10 @@
             150
         ],
         "expected": [
-            "购买商品"
+            "购买商品",
+            "購買商品",
+            "(?i)Purchase",
+            "購入"
         ],
         "next": [
             "CreditShoppingBuyBlacklistItemOCR_ArsenalTicket",

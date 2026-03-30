@@ -10,7 +10,7 @@
         "expected": [
             "武库配额",
             "武庫配額",
-            "Arsenal Ticket",
+            "(?i)Arsenal\\s*Ticket",
             "武庫配給"
         ],
         "pre_delay": 0,
@@ -35,8 +35,7 @@
         ],
         "expected": [
             "嵌晶玉",
-            "嵌晶玉",
-            "Oroberyl",
+            "(?i)Oroberyl",
             "赤晶玉"
         ],
         "pre_delay": 0,
@@ -61,8 +60,7 @@
         ],
         "expected": [
             "折金票",
-            "折金票",
-            "T-Creds",
+            "(?i)T\\s*-\\s*Creds",
             "折金券"
         ],
         "pre_delay": 0,
@@ -88,7 +86,7 @@
         "expected": [
             "初级作战记录",
             "初級作戰紀錄",
-            "Elementary Combat Record",
+            "(?i)Elementary\\s*Combat\\s*Record",
             "初級作戦記録"
         ],
         "pre_delay": 0,
@@ -114,7 +112,7 @@
         "expected": [
             "中级作战记录",
             "中級作戰紀錄",
-            "Intermediate Combat Record",
+            "(?i)Intermediate\\s*Combat\\s*Record",
             "中級作戦記録"
         ],
         "pre_delay": 0,
@@ -140,7 +138,7 @@
         "expected": [
             "初级认知载体",
             "初級認知載體",
-            "Elementary Cognitive Carrier",
+            "(?i)Elementary\\s*Cognitive\\s*Carrier",
             "初級認識媒体"
         ],
         "pre_delay": 0,
@@ -166,7 +164,7 @@
         "expected": [
             "武器检查单元",
             "武器檢查單元",
-            "Arms Inspector",
+            "(?i)Arms\\s*Inspector",
             "武器検査ユニット"
         ],
         "pre_delay": 0,
@@ -192,7 +190,7 @@
         "expected": [
             "武器检查装置",
             "武器檢查裝置",
-            "Arms INSP Kit",
+            "(?i)Arms\\s*INSP\\s*Kit",
             "武器検査セット"
         ],
         "pre_delay": 0,
@@ -218,7 +216,7 @@
         "expected": [
             "强固模具",
             "強固模具",
-            "Cast Die",
+            "(?i)Cast\\s*Die",
             "硬質金型"
         ],
         "pre_delay": 0,
@@ -244,7 +242,7 @@
         "expected": [
             "重型强固模具",
             "重型強固模具",
-            "Heavy Cast Die",
+            "(?i)Heavy\\s*Cast\\s*Die",
             "重硬質金型"
         ],
         "pre_delay": 0,
@@ -270,7 +268,7 @@
         "expected": [
             "协议圆盘",
             "協議圓盤",
-            "Protodisk",
+            "(?i)Protodisk",
             "協約ディスク"
         ],
         "pre_delay": 0,
@@ -296,7 +294,7 @@
         "expected": [
             "协议圆盘组",
             "協議圓盤組",
-            "Protoset",
+            "(?i)Protoset",
             "協約ディスクセット"
         ],
         "pre_delay": 0,
@@ -322,7 +320,7 @@
         "expected": [
             "协议棱柱",
             "協議稜柱",
-            "Protoprism",
+            "(?i)Protoprism",
             "協約角柱"
         ],
         "pre_delay": 0,
@@ -348,7 +346,7 @@
         "expected": [
             "协议棱柱组",
             "協議稜柱組",
-            "Protohedron",
+            "(?i)Protohedron",
             "協約角柱セット"
         ],
         "pre_delay": 0,
@@ -374,7 +372,7 @@
         "expected": [
             "武库配额",
             "武庫配額",
-            "Arsenal Ticket",
+            "(?i)Arsenal\\s*Ticket",
             "武庫配給"
         ],
         "pre_delay": 0,
@@ -399,8 +397,7 @@
         ],
         "expected": [
             "嵌晶玉",
-            "嵌晶玉",
-            "Oroberyl",
+            "(?i)Oroberyl",
             "赤晶玉"
         ],
         "pre_delay": 0,
@@ -425,8 +422,7 @@
         ],
         "expected": [
             "折金票",
-            "折金票",
-            "T-Creds",
+            "(?i)T\\s*-\\s*Creds",
             "折金券"
         ],
         "pre_delay": 0,
@@ -452,7 +448,7 @@
         "expected": [
             "初级作战记录",
             "初級作戰紀錄",
-            "Elementary Combat Record",
+            "(?i)Elementary\\s*Combat\\s*Record",
             "初級作戦記録"
         ],
         "pre_delay": 0,
@@ -478,7 +474,7 @@
         "expected": [
             "中级作战记录",
             "中級作戰紀錄",
-            "Intermediate Combat Record",
+            "(?i)Intermediate\\s*Combat\\s*Record",
             "中級作戦記録"
         ],
         "pre_delay": 0,
@@ -504,7 +500,7 @@
         "expected": [
             "初级认知载体",
             "初級認知載體",
-            "Elementary Cognitive Carrier",
+            "(?i)Elementary\\s*Cognitive\\s*Carrier",
             "初級認識媒体"
         ],
         "pre_delay": 0,
@@ -530,7 +526,7 @@
         "expected": [
             "武器检查单元",
             "武器檢查單元",
-            "Arms Inspector",
+            "(?i)Arms\\s*Inspector",
             "武器検査ユニット"
         ],
         "pre_delay": 0,
@@ -556,7 +552,7 @@
         "expected": [
             "武器检查装置",
             "武器檢查裝置",
-            "Arms INSP Kit",
+            "(?i)Arms\\s*INSP\\s*Kit",
             "武器検査セット"
         ],
         "pre_delay": 0,
@@ -582,7 +578,7 @@
         "expected": [
             "强固模具",
             "強固模具",
-            "Cast Die",
+            "(?i)Cast\\s*Die",
             "硬質金型"
         ],
         "pre_delay": 0,
@@ -608,7 +604,7 @@
         "expected": [
             "重型强固模具",
             "重型強固模具",
-            "Heavy Cast Die",
+            "(?i)Heavy\\s*Cast\\s*Die",
             "重硬質金型"
         ],
         "pre_delay": 0,
@@ -634,7 +630,7 @@
         "expected": [
             "协议圆盘",
             "協議圓盤",
-            "Protodisk",
+            "(?i)Protodisk",
             "協約ディスク"
         ],
         "pre_delay": 0,
@@ -660,7 +656,7 @@
         "expected": [
             "协议圆盘组",
             "協議圓盤組",
-            "Protoset",
+            "(?i)Protoset",
             "協約ディスクセット"
         ],
         "pre_delay": 0,
@@ -686,7 +682,7 @@
         "expected": [
             "协议棱柱",
             "協議稜柱",
-            "Protoprism",
+            "(?i)Protoprism",
             "協約角柱"
         ],
         "pre_delay": 0,
@@ -712,7 +708,7 @@
         "expected": [
             "协议棱柱组",
             "協議稜柱組",
-            "Protohedron",
+            "(?i)Protohedron",
             "協約角柱セット"
         ],
         "pre_delay": 0,
@@ -738,7 +734,7 @@
         "expected": [
             "武库配额",
             "武庫配額",
-            "Arsenal Ticket",
+            "(?i)Arsenal\\s*Ticket",
             "武庫配給"
         ],
         "pre_delay": 0,
@@ -763,8 +759,7 @@
         ],
         "expected": [
             "嵌晶玉",
-            "嵌晶玉",
-            "Oroberyl",
+            "(?i)Oroberyl",
             "赤晶玉"
         ],
         "pre_delay": 0,
@@ -789,8 +784,7 @@
         ],
         "expected": [
             "折金票",
-            "折金票",
-            "T-Creds",
+            "(?i)T\\s*-\\s*Creds",
             "折金券"
         ],
         "pre_delay": 0,
@@ -816,7 +810,7 @@
         "expected": [
             "初级作战记录",
             "初級作戰紀錄",
-            "Elementary Combat Record",
+            "(?i)Elementary\\s*Combat\\s*Record",
             "初級作戦記録"
         ],
         "pre_delay": 0,
@@ -842,7 +836,7 @@
         "expected": [
             "中级作战记录",
             "中級作戰紀錄",
-            "Intermediate Combat Record",
+            "(?i)Intermediate\\s*Combat\\s*Record",
             "中級作戦記録"
         ],
         "pre_delay": 0,
@@ -868,7 +862,7 @@
         "expected": [
             "初级认知载体",
             "初級認知載體",
-            "Elementary Cognitive Carrier",
+            "(?i)Elementary\\s*Cognitive\\s*Carrier",
             "初級認識媒体"
         ],
         "pre_delay": 0,
@@ -894,7 +888,7 @@
         "expected": [
             "武器检查单元",
             "武器檢查單元",
-            "Arms Inspector",
+            "(?i)Arms\\s*Inspector",
             "武器検査ユニット"
         ],
         "pre_delay": 0,
@@ -920,7 +914,7 @@
         "expected": [
             "武器检查装置",
             "武器檢查裝置",
-            "Arms INSP Kit",
+            "(?i)Arms\\s*INSP\\s*Kit",
             "武器検査セット"
         ],
         "pre_delay": 0,
@@ -946,7 +940,7 @@
         "expected": [
             "强固模具",
             "強固模具",
-            "Cast Die",
+            "(?i)Cast\\s*Die",
             "硬質金型"
         ],
         "pre_delay": 0,
@@ -972,7 +966,7 @@
         "expected": [
             "重型强固模具",
             "重型強固模具",
-            "Heavy Cast Die",
+            "(?i)Heavy\\s*Cast\\s*Die",
             "重硬質金型"
         ],
         "pre_delay": 0,
@@ -998,7 +992,7 @@
         "expected": [
             "协议圆盘",
             "協議圓盤",
-            "Protodisk",
+            "(?i)Protodisk",
             "協約ディスク"
         ],
         "pre_delay": 0,
@@ -1024,7 +1018,7 @@
         "expected": [
             "协议圆盘组",
             "協議圓盤組",
-            "Protoset",
+            "(?i)Protoset",
             "協約ディスクセット"
         ],
         "pre_delay": 0,
@@ -1050,7 +1044,7 @@
         "expected": [
             "协议棱柱",
             "協議稜柱",
-            "Protoprism",
+            "(?i)Protoprism",
             "協約角柱"
         ],
         "pre_delay": 0,
@@ -1076,7 +1070,7 @@
         "expected": [
             "协议棱柱组",
             "協議稜柱組",
-            "Protohedron",
+            "(?i)Protohedron",
             "協約角柱セット"
         ],
         "pre_delay": 0,
